@@ -1,0 +1,15 @@
+# Compiled binaries
+flash_attention
+bench
+bench_graph
+bench_noncausal
+test_kernel
+flash_attention_cpasync
+flash_attention_warp_spec
+
+# Object files
+*.o
+
+# Editor files
+*.swp
+*~
