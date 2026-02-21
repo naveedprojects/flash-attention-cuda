@@ -1,0 +1,8 @@
+# Compiled binaries
+flash_attention
+*.o
+
+# Editor files
+*.swp
+*~
+.vscode/
